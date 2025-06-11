@@ -1,0 +1,16 @@
+[submodule "mbot_firmware"]
+	path = mbot_firmware
+	url = git@github.com:ChanHaoHao/mbot_firmware.git
+	branch = haoyu
+[submodule "mbot_vision"]
+	path = mbot_vision
+	url = git@github.com:ChanHaoHao/mbot_vision.git
+	branch = haoyu
+[submodule "mbot_lcm_base"]
+	path = mbot_lcm_base
+	url = git@github.com:ChanHaoHao/mbot_lcm_base.git
+	branch = haoyu
+[submodule "mbot_autonomy"]
+	path = mbot_autonomy
+	url = git@github.com:ChanHaoHao/mbot_autonomy.git
+	branch = haoyu
